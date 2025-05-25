@@ -1,4 +1,7 @@
-## Hi there 👋
+# About Me:
+<p> <img src="https://readme-typing-svg.demolab.com/demo/?font=Poetsen+One&lines=Hey+there!%F0%9F%91%8B+I%E2%80%99m+Gunjan+Sah" alt="Typing SVG"> , a coffee-fueled junior juggling Computer Science and Mathematics at the University of Southern Mississippi. With a passion for machine learning, deep learning, and all things AI, I’m on the lookout for collaborators who don’t mind my occasional bad math jokes. Let’s connect and see how we can turn ambitious ideas into reality—one algorithm (and one punchline) at a time!
+ </p>
+
 
 <!--
 **Gunjansah/Gunjansah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
