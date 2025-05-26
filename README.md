@@ -14,26 +14,29 @@
 
 ## 💻 Languages, Tools and Frameworks:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/GeoPandas-4E9A06?style=for-the-badge&logoColor=white" alt="GeoPandas"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/OpenCV-27A84F?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/> <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-
 ## 📊 GitHub Stats
 
+<div align="center">
+  <table style="width: auto; border-spacing: 15px; border-collapse: separate;">
+    <tr>
+      <td style="vertical-align: top;">
+        <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjansah&layout=compact&theme=dark" alt="Top Langs" />
+        </a>
+      </td>
+      <td style="vertical-align: top;">
+        <a href="https://git.io/streak-stats" target="_blank">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunjansah&theme=radical" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=Gunjansah&show_icons=true&theme=dark" alt="Your GitHub Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://git.io/streak-stats" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunjansah&theme=dark" alt="GitHub Streak" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjansah&layout=compact&theme=dark" alt="Top Langs" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="text-align: center; margin-top: 15px;">
+  <div style="display: inline-block;" align="center"> 
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api?username=Gunjansah&show_icons=true&theme=dark" alt="Your GitHub Stats" />
+    </a>
+  </div>
+</div>
